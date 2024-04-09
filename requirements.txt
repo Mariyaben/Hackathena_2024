@@ -1,0 +1,8 @@
+openai==1.0.0
+load_dotenv
+gtts
+gtts pydub
+playsound
+roboflow
+pydub
+pyttsx3
